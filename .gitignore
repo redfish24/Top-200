@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/brand_generic.zip
+/Project1/Brand_generic.csv
+/Top-200/
